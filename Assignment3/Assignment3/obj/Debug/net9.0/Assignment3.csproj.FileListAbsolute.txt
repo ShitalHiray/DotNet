@@ -1,0 +1,14 @@
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\bin\Debug\net9.0\Assignment3.exe
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\bin\Debug\net9.0\Assignment3.deps.json
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\bin\Debug\net9.0\Assignment3.runtimeconfig.json
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\bin\Debug\net9.0\Assignment3.dll
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\bin\Debug\net9.0\Assignment3.pdb
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\obj\Debug\net9.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\obj\Debug\net9.0\Assignment3.AssemblyInfoInputs.cache
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\obj\Debug\net9.0\Assignment3.AssemblyInfo.cs
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\obj\Debug\net9.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\obj\Debug\net9.0\Assignment3.dll
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\obj\Debug\net9.0\refint\Assignment3.dll
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\obj\Debug\net9.0\Assignment3.pdb
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\obj\Debug\net9.0\Assignment3.genruntimeconfig.cache
+C:\Shital CDAC DATA\CDAC DATA FEB 25\.Net\Day3\Assignment3\Assignment3\obj\Debug\net9.0\ref\Assignment3.dll
